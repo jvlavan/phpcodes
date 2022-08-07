@@ -41,8 +41,7 @@
 
 <h1>PHP based electricity Bill calculator</h1>
 <br>
-<h3> Question:</h3>
-<img src="ref.jpg" alt="question" />
+
 		<form action="" method="POST" >
 			<label> Enter your unit:</label>
             	<input type="number" name="units" id="units"/>
